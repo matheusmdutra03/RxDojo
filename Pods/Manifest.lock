@@ -1,0 +1,50 @@
+PODS:
+  - Nimble (7.3.4)
+  - Quick (2.1.0)
+  - RxCocoa (5.0.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.0):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - RxSwiftExt (5.0.0):
+    - RxSwiftExt/Core (= 5.0.0)
+    - RxSwiftExt/RxCocoa (= 5.0.0)
+  - RxSwiftExt/Core (5.0.0):
+    - RxSwift (~> 5.0)
+  - RxSwiftExt/RxCocoa (5.0.0):
+    - RxCocoa (~> 5.0)
+    - RxSwiftExt/Core
+  - RxTest (5.0.0):
+    - RxSwift (~> 5)
+
+DEPENDENCIES:
+  - Nimble
+  - Quick
+  - RxCocoa
+  - RxSwift
+  - RxSwiftExt
+  - RxTest
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Nimble
+    - Quick
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - RxSwiftExt
+    - RxTest
+
+SPEC CHECKSUMS:
+  Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
+  Quick: 4be43f6634acfa727dd106bdf3929ce125ffa79d
+  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
+  RxRelay: 4f7409406a51a55cd88483f21ed898c234d60f18
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  RxSwiftExt: 4564187392cc53823ef241fa4a11647861567026
+  RxTest: 4349afe98f564e0a9bc19063368904622d17d49a
+
+PODFILE CHECKSUM: 699e2a1c7715d186203fb63f1be9947ec4ec1dcf
+
+COCOAPODS: 1.7.5
